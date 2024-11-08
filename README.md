@@ -14,7 +14,7 @@ Tarefa Prática
 Faça um fork do repositório original e clone o novo repositório da aplicação "Conversão de Distâncias" no GitHub: https://github.com/KubeDev/conversao-distancia.
 Crie um Dockerfile que atenda aos requisitos do projeto.
 
-[Fork do repositório](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/01-Fork.png?raw=true)
+[Fork do repositório](https://github.com/GilsonRavaiani/conversao-distancia/blob/0fbb29c6ba97f55dd7a39250d44d1e34a42866b1/images/01-Fork.png)
 
 2. Criação e Teste do Contêiner
 
