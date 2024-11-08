@@ -14,15 +14,15 @@ Tarefa Prática
 Faça um fork do repositório original e clone o novo repositório da aplicação "Conversão de Distâncias" no GitHub: https://github.com/KubeDev/conversao-distancia.
 Crie um Dockerfile que atenda aos requisitos do projeto.
 
-[Fork do repositório](https://github.com/GilsonRavaiani/conversao-distancia/blob/0fbb29c6ba97f55dd7a39250d44d1e34a42866b1/images/01-Fork.png)
+![Fork do repositório](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/01-Fork.png?raw=true)
 
 2. Criação e Teste do Contêiner
 
 Gere uma imagem Docker a partir do Dockerfile criado.
 
-[Docker com imagem](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/02-Docker.png?raw=true)
+![Docker com imagem](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/02-Docker.png?raw=true)
 
 Execute um contêiner a partir da imagem para garantir que a aplicação esteja acessível na porta 5000.
 Realize testes básicos na aplicação para verificar a funcionalidade de conversão de métricas.
 
-[Acesso 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
+![Acesso 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
