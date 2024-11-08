@@ -16,13 +16,19 @@ Crie um Dockerfile que atenda aos requisitos do projeto.
 
 ![Fork do repositório](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/01-Fork.png?raw=true)
 
+**FIGURA 01** Fork do repositório
+
 2. Criação e Teste do Contêiner
 
 Gere uma imagem Docker a partir do Dockerfile criado.
 
 ![Docker com imagem](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/02-Docker.png?raw=true)
 
+**FIGURA 02** Docker com imagem
+
 Execute um contêiner a partir da imagem para garantir que a aplicação esteja acessível na porta 5000.
 Realize testes básicos na aplicação para verificar a funcionalidade de conversão de métricas.
 
 ![Acesso porta 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
+
+**FIGURA 03** Acesso porta 5000 e aplicação funcionando
