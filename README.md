@@ -32,3 +32,5 @@ Realize testes básicos na aplicação para verificar a funcionalidade de conver
 ![Acesso porta 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
 
 **FIGURA 03** Acesso porta 5000 e aplicação funcionando
+
+Implantando k8s
