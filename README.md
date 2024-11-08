@@ -25,4 +25,4 @@ Gere uma imagem Docker a partir do Dockerfile criado.
 Execute um contêiner a partir da imagem para garantir que a aplicação esteja acessível na porta 5000.
 Realize testes básicos na aplicação para verificar a funcionalidade de conversão de métricas.
 
-![Acesso 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
+![Acesso porta 5000 e aplicação funcionando](https://github.com/GilsonRavaiani/conversao-distancia/blob/main/images/03-porta_5000.png?raw=true)
