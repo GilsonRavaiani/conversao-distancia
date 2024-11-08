@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-Kind: Deployment
+kind: Deployment
 metadata:
     name: conversao-distancia
 spec:
@@ -9,12 +9,11 @@ spec:
             app: conversao-distancia
     template:
         metadata:
-            Labels:
+            labels:
                 app: conversao-distancia
         spec:
             containers:
-            - name: conversao-distancia
-              image: gilsonravaiani/conversao-distancia:v1
-              ports:
-                - containerPort: 5000
-
+                - name: conversao-distancia
+                  image: gilsonravaiani/conversao-distancia:v1
+                  ports:
+                      - containerPort: 5000
